@@ -1,4 +1,10 @@
 .Rcd-text-indigo{
     color: #3f51b5 !important;
 }
-#009688
+
+section.contact ul.list-social li.social-instagram a {
+    background-color: #e43538;
+  }
+  
+  section.contact ul.list-social li.social-instagram a:hover {
+    background-color: #e43538;
